@@ -1,0 +1,13 @@
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\bin\Debug\IT481Unit1.exe.config
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\bin\Debug\IT481Unit1.exe
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\bin\Debug\IT481Unit1.pdb
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit2.csprojAssemblyReference.cache
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.PAL.Customer.resources
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.Properties.Resources.resources
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit2.csproj.GenerateResource.cache
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit2.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.exe
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.pdb
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.PAL.Home.resources
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.PAL.Employee.resources
+C:\Users\John\source\repos\IT481Unit1\IT481Unit1\obj\Debug\IT481Unit1.PAL.Product.resources
